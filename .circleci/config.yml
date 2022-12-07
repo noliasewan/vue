@@ -1,7 +1,7 @@
 version: 2.1
 description: |
   An orb for working with Amazon Elastic Container Service (ECS).
-  Supports the EC2 and Fargate launch type a BueGree delyme
+  Supports the EC2 and Fargate launch typ a BueGree delyme
   
 jobs:
   build:
